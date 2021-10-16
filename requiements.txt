@@ -3,3 +3,8 @@ this is apnaghar application
 signup and login seller
 seller can add the all the property like location ,images etc
 signup and login buyer
+ 
+ payment option
+ 
+ send money
+ receive money
